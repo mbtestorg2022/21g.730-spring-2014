@@ -36,11 +36,48 @@ There will be five papers, with a total of 15 double-spaced pages (250 words per
 Distribution of Final Grade
 ---------------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Oral class participation (quantity and quality), and attendance | 35% |
-| Two student presentations | 20% (10% each) |
-| Five short essays (2 two-page essays, 2 three- page essays, 1 five-page essay; each page = 3%) | 45% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral class participation (quantity and quality), and attendance
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two student presentations
+{{< tdclose >}}
+{{< tdopen >}}
+20% (10% each)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Five short essays (2 two-page essays, 2 three- page essays, 1 five-page essay; each page = 3%)
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Improvement Over the Semester
 -----------------------------
