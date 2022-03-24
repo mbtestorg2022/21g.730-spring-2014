@@ -334,7 +334,7 @@ Essay 2 on _Cien años_
 
 *   \[Soledad\] Chapters 13–18.
 *   Darío, Rubén. "[A Roosevelt](http://www.poemas-del-alma.com/a-roosevelt.htm)." In _Cantos de vida y esperanza_. Alianza, 2004. ISBN: 9788420658605. (First published in 1905.)
-*   Neruda, Pablo. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["United Fruit Company." (PDF)](http://www.writing.ucsb.edu/faculty/dean/Upload501B-Fall06/PabloNeruda.pdf) In _Canto general_. Catedra, 2006. ISBN: 9788437609300. (First published in Mexico, in 1950.)
+*   Neruda, Pablo. ["United Fruit Company." (PDF)](http://www.writing.ucsb.edu/faculty/dean/Upload501B-Fall06/PabloNeruda.pdf) In _Canto general_. Catedra, 2006. ISBN: 9788437609300. (First published in Mexico, in 1950.)
 *   Franco, Jean. "Cruel Survival." Chapter 6 in _Cruel Modernity_. Duke University Press, 2013, pp. 153–67. ISBN: 9780822354567. \[Preview with [Google Books](http://books.google.com/books?id=pc9aUc603bgC&pg=PA152=onepage)\] (all of sub-sections "Execution as Allegory" and "La Llorona"), and notes for all.
 
 
@@ -450,7 +450,7 @@ Poniatowska, Elena. _Querido Diego, Te abraza Quiela_. Ediciones ERA, 2007. ISBN
 See images in class of paintings and drawings by Angelina Beloff, Diego Rivera, and Frida Kahlo.  
 Fuguet, Alberto, and Sergio Gómez.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Presentación del país McOndo." (PDF)](https://lh2.weebly.com/uploads/2/3/9/0/23909114/presentaci%C3%B3n_del_pa%C3%ADs_de_mcondo.pdf) _McOndo_. Prologue to short-story anthology
+["Presentación del país McOndo." (PDF)](https://lh2.weebly.com/uploads/2/3/9/0/23909114/presentaci%C3%B3n_del_pa%C3%ADs_de_mcondo.pdf) _McOndo_. Prologue to short-story anthology
 
 
 {{< tdclose >}}
@@ -475,7 +475,7 @@ Remembered from The 1990s: To Be Chilean and Young in 1973—Patricio Guzmán (C
 ### Read
 
 *   Bolaño, Roberto. Chapters 1–3 in _Estrella distante_. Vintange Espanol, 2010. ISBN: 9780307476128. Untitled prologue.
-*   Marinetti, Filippo Tomaso. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Manifesto of Futurism." (PDF)](http://www.societyforasianart.org/sites/default/files/manifesto_futurista.pdf) In _Three Intellectuals in Politics_. Ulan Press, 2012.
+*   Marinetti, Filippo Tomaso. ["Manifesto of Futurism." (PDF)](http://www.societyforasianart.org/sites/default/files/manifesto_futurista.pdf) In _Three Intellectuals in Politics_. Ulan Press, 2012.
     *   First published in French in _Le Figaro_, of Paris, on February 20, 1909 and reprinted in its entirety in Spanish translation, in Spain, by Ramón Gómez de la Serna, in Prometeo (II, num / 4, VI, April 1909).
     *   This reading is intended to give you a partial idea of the different aesthetics that were emerging in Europe to address the experience of modernity at the beginning of the 20th century. This information is relevant to the first chapters of Bolaño's 1996 novel.
     *   An interesting aside: A mere forty days after the publication of Marinetti's manifesto in Paris, Rubén Darío published a response in the Buenos Aires newspaper _La Nación_, in which he praised Marinetti's poetry for its "vehemence" but declared the manifesto "useless," claiming that it would generate numerous imitators of Marinetti's poetry who lacked his talent. In his article, Darío reproduced the manifesto's eleven points, possibly their first publication in Latin America.
