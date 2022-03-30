@@ -28,10 +28,10 @@ Curriculum Information
 
 One intermediate subject in Spanish or permission from the instructor. Intermediate subjects include:
 
-*   [_21G.711 Advanced Spanish Conversation and Composition: Perspectives on Technology_](/courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014/)
-*   [_21G.712/792 Spanish Conversation and Composition/Spanish Conversation and Composition-Globalization_](/courses/21g-712-spanish-conversation-and-composition-fall-2003/)
+*   [_21G.711 Advanced Spanish Conversation and Composition: Perspectives on Technology_](/courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014)
+*   [_21G.712/792 Spanish Conversation and Composition/Spanish Conversation and Composition-Globalization_](/courses/21g-712-spanish-conversation-and-composition-fall-2003)
 *   _21G.713 Advanced Communication in Spanish: Film, Visual Arts, and Fiction_
-*   [_21G.714 Spanish for Bilingual Students_](/courses/21g-714-spanish-for-bilingual-students-spring-2003/)
+*   [_21G.714 Spanish for Bilingual Students_](/courses/21g-714-spanish-for-bilingual-students-spring-2003)
 
 ### Requirements Satisfied
 
